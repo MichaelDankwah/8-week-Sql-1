@@ -26,5 +26,27 @@ Through this project, I have demonstrated proficiency in SQL, including the foll
 - Handling conditional logic within SQL queries to apply different rules based on the data.
 - This case study showcases my ability to extract meaningful insights from data using SQL, which is crucial for data analysis and decision-making in any business context.
 
+**Prerequisites:**
+
+To run this project, you will need to have MySQL installed on your machine.
+
+**Getting Started:**
+
+1. Clone this repository to your local machine.
+
+2. Open a terminal and navigate to the project directory.
+
+3. Start the MySQL server by running the following command: MySQL.server start
+
+4. Log into the MySQL server by running the following command: mysql -u root
+
+5. Create a new database by running the following command: CREATE DATABASE dannys_diner;
+
+6. Select the new database by running the following command: USE dannys_diner;
+
+7. Import the SQL script `8_weeks_chall_1.1.sql` located in the repository files to create the necessary tables and populate them with sample data.
+
+
 ### Conclusion
 This repository provides a comprehensive analysis of customer behavior at Danny's Diner using SQL. The insights derived from this analysis can help Danny enhance his customer loyalty program and improve his business strategies.
+
